@@ -1,0 +1,344 @@
+Summary
+Background
+Methods
+Findings
+Interpretation
+Funding
+Introduction
+- Wiersinga WJ
+- Rhodes A
+- Cheng AC
+- Peacock SJ
+- Prescott HC
+- Cevik M
+- Kuppalli K
+- Kindrachuk J
+- Peiris M
+- Yelin D
+- Wirtheim E
+- Vetter P
+- et al.
+- Carfi A
+- Bernabei R
+- Landi F
+- Huang Y
+- Tan C
+- Wu J
+- et al.
+- Liu C
+- Ye L
+- Xia R
+- et al.
+- Zhao YM
+- Shang YM
+- Song WB
+- et al.
+- Xiong Q
+- Xu M
+- Li J
+- et al.
+- Carfi A
+- Bernabei R
+- Landi F
+- Xiong Q
+- Xu M
+- Li J
+- et al.
+- Huang Y
+- Tan C
+- Wu J
+- et al.
+- Zhao YM
+- Shang YM
+- Song WB
+- et al.
+- Liu C
+- Ye L
+- Xia R
+- et al.
+Methods
+Study design and participants
+Chinese clinical guidance for COVID-19 pneumonia diagnosis and treatment.
+Procedures
+- Cao B
+- Wang Y
+- Wen D
+- et al.
+- Xie W
+- Wu Y
+- Wang W
+- et al.
+- Mahler DA
+- Wells CK
+- Herdman M
+- Gudex C
+- Lloyd A
+- et al.
+- Rabin R
+- de Charro F
+- Cao B
+- Wang Y
+- Wen D
+- et al.
+- Ren L
+- Fan G
+- Wu W
+- et al.
+- Guo L
+- Ren L
+- Yang S
+- et al.
+Standardization of spirometry, 1994 update.
+- Liu F
+- Zhang Q
+- Huang C
+- et al.
+- Pan F
+- Ye T
+- Sun P
+- et al.
+- Francone M
+- Iafrate F
+- Masci GM
+- et al.
+- Levey AS
+- Stevens LA
+- Schmid CH
+- et al.
+Statistical analysis
+Role of the funding source
+Results
+|Total (n=1733)||Scale 3: not requiring supplemental oxygen (n=439)||Scale 4: requiring supplemental oxygen (n=1172)||Scale 5–6: requiring HFNC, NIV, or IMV (n=122)|
+|Age, years||57·0 (47·0–65·0)||57·0 (46·0–65·0)||57·0 (48·0–65·0)||56·0 (48·0–65·0)|
+|Sex|
+|Men||897 (52%)||214 (49%)||605 (52%)||78 (64%)|
+|Women||836 (48%)||225 (51%)||567 (48%)||44 (36%)|
+|Education|
+|College or higher||499/1558 (32%)||132/405 (33%)||322/1045 (31%)||45/108 (42%)|
+|Middle school or lower||1059/1558 (68%)||273/405 (67%)||723/1045 (69%)||63/108 (58%)|
+|Cigarette smoking|
+|Never-smoker||1585/1731 (92%)||408 (93%)||1071/1170 (92%)||106 (87%)|
+|Current smoker||102/1731 (6%)||19 (4%)||69/1170 (6%)||14 (11%)|
+|Former smoker||44/1731 (3%)||12 (3%)||30/1170 (3%)||2 (2%)|
+|Comorbidities|
+|Hypertension||505 (29%)||129 (29%)||331 (28%)||45 (37%)|
+|Diabetes||207 (12%)||60 (14%)||132 (11%)||15 (12%)|
+|Cardiovascular diseases||128/1732 (7%)||41/438 (9%)||72 (6%)||15 (12%)|
+|Cerebrovascular diseases||47/1732 (3%)||11 (3%)||35/1171 (3%)||1 (1%)|
+|Malignant tumour||44 (3%)||9 (2%)||33 (3%)||2 (2%)|
+|Chronic obstructive pulmonary disorder||31 (2%)||6 (1%)||24 (2%)||1 (1%)|
+|Chronic kidney disease||27 (2%)||4 (1%)||21 (2%)||2 (2%)|
+|Systolic blood pressure ≥140 mm Hg||398/1724 (23%)||121 (28%)||251/1166 (22%)||26/119 (22%)|
+|Diastolic blood pressure ≥90 mm Hg||386/1724 (22%)||115 (26%)||253/1166 (22%)||18/119 (15%)|
+|Highest seven-category scale during hospital stay|
+|3: admitted to hospital, not requiring supplemental oxygen||439 (25%)||439 (100%)||NA||NA|
+|4: admitted to hospital, requiring supplemental oxygen||1172 (68%)||NA||1172 (100%)||NA|
+|5: admitted to hospital, requiring HFNC or non-IMV or both||112 (6%)||NA||NA||112 (92%)|
+|6: admitted to hospital, requiring ECMO or IMV, or both||10 (1%)||NA||NA||10 (8%)|
+|Treatment received during hospital stay|
+|Corticosteroids||398 (23%)||38 (9%)||275 (23%)||85 (70%)|
+|Antivirals||943 (54%)||222 (51%)||648 (55%)||73 (60%)|
+|Lopinavir–ritonavir||236 (14%)||40 (9%)||164 (14%)||32 (26%)|
+|Arbidol||831 (48%)||202 (46%)||568 (48%)||61 (50%)|
+|Chloroquine phosphate||4 (<1%)||0||3 (<1%)||1 (1%)|
+|Hydroxychloroquine||2 (<1%)||1 (<1%)||1 (<1%)||0|
+|Antibiotics||1339 (77%)||254 (58%)||965 (82%)||120 (98%)|
+|Thymosin||289 (17%)||68 (15%)||202 (17%)||19 (16%)|
+|Intravenous immunoglobulin||345 (20%)||37 (8%)||238 (20%)||70 (57%)|
+|Length of hospital stay, days||14·0 (10·0–19·0)||11·0 (8·0–16·0)||14·0 (10·0–18·0)||35·0 (22·0–51·0)|
+|ICU admission||76 (4%)||0||32 (3%)||44 (36%)|
+|Length of ICU stay, days||14·0 (6·5–25·5)||NA||7·0 (2·5–18·0)||20·0 (10·0–41·5)|
+|Time from symptom onset to admission, days||15·0 (11·0–25·0)||20·5 (12·0–43·0)||14·0 (10·0–22·0)||13·0 (11·0–17·0)|
+|Time from discharge to follow-up, days||153·0 (146·0–160·0)||151·0 (140·0–156·0)||154·0 (150·0–160·0)||157·0 (135·0–169·0)|
+|Time from symptom onset to follow-up, days||186·0 (175·0–199·0)||187·0 (175·0–198·0)||184·0 (175·0–196·0)||205·0 (189·5–217·0)|
+|Total (n=1733)||Seven-category scale||OR or β (95% CI)|
+|Scale 3: not requiring supplemental oxygen (n=439)||Scale 4: requiring supplemental oxygen (n=1172)||Scale 5–6: requiring HFNC, NIV, or IMV (n=122)||Scale 4 vs 3||Scale 5–6 vs 3|
+|Symptoms|
+|Any one of the following symptoms||1265/1655 (76%)||344/424 (81%)||820/1114 (74%)||101/117 (86%)||OR 0·70 (0·52 to 0·96)||OR 2·42 (1·15 to 5·08)|
+|Fatigue or muscle weakness||1038/1655 (63%)||281/424 (66%)||662/1114 (59%)||95/117 (81%)||OR 0·74 (0·58 to 0·96)||OR 2·69 (1·46 to 4·96)|
+|Sleep difficulties||437/1655 (26%)||116/424 (27%)||290/1114 (26%)||31/117 (26%)||OR 0·92 (0·71 to 1·21)||OR 1·15 (0·68 to 1·94)|
+|Hair loss||359/1655 (22%)||93/424 (22%)||238/1114 (21%)||28/117 (24%)||OR 0·99 (0·74 to 1·31)||OR 1·17 (0·67 to 2·04)|
+|Smell disorder||176/1655 (11%)||55/424 (13%)||107/1114 (10%)||14/117 (12%)||OR 0·69 (0·48 to 1·00)||OR 0·90 (0·43 to 1·87)|
+|Palpitations||154/1655 (9%)||45/424 (11%)||96/1114 (9%)||13/117 (11%)||OR 0·86 (0·58 to 1·28)||OR 1·31 (0·61 to 2·80)|
+|Joint pain||154/1655 (9%)||51/424 (12%)||86/1114 (8%)||17/117 (15%)||OR 0·56 (0·38 to 0·83)||OR 0·74 (0·36 to 1·50)|
+|Decreased appetite||138/1655 (8%)||42/424 (10%)||85/1114 (8%)||11/117 (9%)||OR 0·84 (0·56 to 1·27)||OR 1·56 (0·71 to 3·43)|
+|Taste disorder||120/1655 (7%)||37/424 (9%)||75/1114 (7%)||8/117 (7%)||OR 0·84 (0·54 to 1·30)||OR 0·80 (0·32 to 2·02)|
+|Dizziness||101/1655 (6%)||32/424 (8%)||60/1114 (5%)||9/117 (8%)||OR 0·77 (0·48 to 1·22)||OR 0·95 (0·39 to 2·31)|
+|Diarrhoea or vomiting||80/1655 (5%)||27/424 (6%)||48/1114 (4%)||5/117 (4%)||OR 0·71 (0·42 to 1·22)||OR 0·39 (0·11 to 1·42)|
+|Chest pain||75/1655 (5%)||19/424 (4%)||46/1114 (4%)||10/117 (9%)||OR 0·94 (0·52 to 1·67)||OR 2·55 (0·99 to 6·62)|
+|Sore throat or difficult to swallow||69/1655 (4%)||20/424 (5%)||44/1114 (4%)||5/117 (4%)||OR 0·91 (0·50 to 1·65)||OR 1·21 (0·40 to 3·73)|
+|Skin rash||47/1655 (3%)||16/424 (4%)||27/1114 (2%)||4/117 (3%)||OR 0·64 (0·32 to 1·26)||OR 0·71 (0·18 to 2·87)|
+|Myalgia||39/1655 (2%)||11/424 (3%)||24/1114 (2%)||4/117 (3%)||OR 0·80 (0·38 to 1·69)||OR 1·72 (0·47 to 6·27)|
+|Headache||33/1655 (2%)||10/424 (2%)||20/1114 (2%)||3/117 (3%)||OR 0·76 (0·35 to 1·69)||OR 1·53 (0·36 to 6·52)|
+|Low grade fever||2/1655 (<1%)||1/424 (<1%)||1/1114 (<1%)||0||NA||NA|
+|mMRC score|
+|0||1196/1615 (74%)||323/425 (76%)||802/1079 (74%)||71/111 (64%)||NA||NA|
+|≥1||419/1615 (26%)||102/425 (24%)||277/1079 (26%)||40/111 (36%)||OR 1·11 (0·84 to 1·46)||OR 2·15 (1·28 to 3·59)|
+|EQ-5D-5L questionnaire|
+|Mobility: problems with walking around||113/1622 (7%)||25/426 (6%)||72/1084 (7%)||16/112 (14%)||OR 1·06 (0·63 to 1·78)||OR 2·48 (1·12 to 5·48)|
+|Personal care: problems with washing or dishing||11/1622 (1%)||0||10/1084 (1%)||1/112 (1%)||NA||NA|
+|Usual activity: problems with usual activity||25/1611 (2%)||5/425 (1%)||15/1076 (1%)||5/110 (5%)||OR 1·10 (0·35 to 3·50)||OR 3·42 (0·74 to 15·78)|
+|Pain or discomfort||431/1616 (27%)||111/422 (26%)||274/1082 (25%)||46/112 (41%)||OR 0·86 (0·66 to 1·13)||OR 1·94 (1·19 to 3·16)|
+|Anxiety or depression||367/1617 (23%)||98/425 (23%)||233/1081 (22%)||36/111 (32%)||OR 0·88 (0·66 to 1·17)||OR 1·77 (1·05 to 2·97)|
+|Quality of life||80·0 (70·0 to 90·0)||80·0 (70·0 to 90·0)||80·0 (75·0 to 90·0)||80·0 (70·0 to 87·5)||β 2·68 (−1·55 to 6·91)||β −2·33 (−10·60 to 5·95)|
+|Distance walked in 6 min, m||495·0 (440·0 to 538·0)||495·0 (446·0 to 542·0)||495·0 (439·0 to 537·0)||479·0 (434·0 to 515·5)||β −9·25 (−18·80 to 0·26)||β −32·50 (−51·40 to −13·60)|
+|Percentage of predicted value||87·7 (75·9 to 101·1)||87·8 (76·3 to 101·3)||87·9 (76·3 to 101·5)||85·2 (72·9 to 98·6)||β −1·58 (−3·59 to 0·43)||β −5·61 (−9·60 to −1·62)|
+|Less than lower limit of the normal range||392/1692 (23%)||103/423 (24%)||255/1153 (22%)||34/116 (29%)||OR 1·13 (0·81 to 1·57)||OR 2·18 (1·18 to 4·03)|
+|eGFR<90 mL/min per 1·73 m2||487/1393 (35%)||121/338 (36%)||326/967 (34%)||40/88 (45%)||OR 0·86 (0·63 to 1·19)||OR 1·44 (0·76 to 2·70)|
+- Enright PL
+- Sherrill DL
+|Seven-category scale||OR or β (95% CI)|
+|Scale 3: not requiring supplemental oxygen||Scale 4: requiring supplemental oxygen||Scale 5–6: requiring HFNC, NIV, or IMV||Scale 4 vs 3||Scale 5–6 vs 3|
+|Lung function|
+|Number of patients||89||172||88|
+|FEV1 <80%, % of predicted||7 (8%)||4 (2%)||11 (13%)||OR 0·14 (0·03 to 0·68)||OR 0·50 (0·09 to 2·93)|
+|FVC <80%, % of predicted||3 (3%)||1 (1%)||10 (11%)||OR 0·11 (0·01 to 1·59)||OR 2·09 (0·19 to 23·02)|
+|FEV1/FVC <70%||7 (8%)||13 (8%)||2 (2%)||OR 0·91 (0·29 to 2·80)||OR 0·26 (0·03 to 1·93)|
+|TLC <80%, % of predicted||9/83 (11%)||17/165 (10%)||30/86 (35%)||OR 0·89 (0·33 to 2·42)||OR 3·00 (0·93 to 9·67)|
+|FRC <80%, % of predicted||5/83 (6%)||6/165 (4%)||16/84 (19%)||OR 0·61 (0·17 to 2·16)||OR 3·93 (0·97 to 15·82)|
+|RV <80%, % of predicted||16/83 (19%)||28/164 (17%)||43/86 (50%)||OR 0·76 (0·33 to 1·75)||OR 2·75 (1·03 to 7·37)|
+|DLCO <80%, % of predicted||18/83 (22%)||48/165 (29%)||48/86 (56%)||OR 1·61 (0·80 to 3·25)||OR 4·60 (1·85 to 11·48)|
+|Chest CT|
+|Number of patients||95||163||95|
+|At least one abnormal CT pattern||49 (52%)||87/161 (54%)||50/92 (54%)||OR 0·93 (0·53 to 1·64)||OR 0·81 (0·38 to 1·72)|
+|GGO||39 (41%)||78/161 (48%)||41/92 (45%)||OR 1·19 (0·68 to 2·09)||OR 0·93 (0·44 to 1·98)|
+|Irregular lines||10 (11%)||24/161 (15%)||22/92 (24%)||OR 1·46 (0·60 to 3·52)||OR 1·89 (0·64 to 5·61)|
+|Consolidation||0||4/161 (2%)||0||NA||NA|
+|Interlobular septal thickening||1 (1%)||2/161 (1%)||0||NA||NA|
+|Subpleural line||6 (6%)||5/161 (3%)||4/92 (4%)||NA||NA|
+|Reticular pattern||0||1/161 (1%)||1/92 (1%)||NA||NA|
+|Volume of lung lesions, cm3||1·6 (0·6 to 5·6)||3·3 (0·8 to 12·4)||29·1 (4·6 to 77·3)||β 7·45 (−12·40 to 27·28)||β 34·37 (7·74 to 61·00)|
+|Volume of consolidation, cm3||0·2 (0·1 to 0·4)||0·3 (0·1 to 1·0)||1·6 (0·2 to 4·4)||β 0·19 (−1·97 to 2·35)||β 3·05 (0·14 to 5·95)|
+|Volume of GGO, cm3||1·4 (0·6 to 4·7)||2·9 (0·7 to 10·0)||26·3 (4·3 to 73·3)||β 7·26 (−10·70 to 25·25)||β 31·32 (7·16 to 55·48)|
+|Volume ratio of lung lesion to total lung, %||0·0 (0·0 to 0·1)||0·1 (0·0 to 0·3)||0·7 (0·1 to 2·2)||β −0·06 (−1·36 to 1·24)||β 1·44 (−0·30 to 3·18)|
+|Volume ratio of consolidation to total lung, %||0·0 (0·0 to 0·0)||0·0 (0·0 to 0·0)||0·0 (0·0 to 0·1)||NA||NA|
+|Volume ratio of GGO to total lung, %||0·0 (0·0 to 0·1)||0·1 (0·0 to 0·2)||0·6 (0·1 to 1·9)||β −0·07 (−1·20 to 1·07)||β 1·23 (−0·29 to 2·76)|
+|CT score||3·0 (2·0 to 5·0)||4·0 (3·0 to 5·0)||5·0 (4·0 to 6·0)||β 0·33 (−0·19 to 0·84)||β 1·25 (0·56 to 1·95)|
+- Cao B
+- Wang Y
+- Wen D
+- et al.
+Discussion
+- Tansey CM
+- Louie M
+- Loeb M
+- et al.
+- Lam MH
+- Wing YK
+- Yu MW
+- et al.
+- Lee AM
+- Wong JG
+- McAlonan GM
+- et al.
+- Xiong Q
+- Xu M
+- Li J
+- et al.
+- Rogers JP
+- Chesney E
+- Oliver D
+- et al.
+- Xie L
+- Liu Y
+- Xiao Y
+- et al.
+- Bai L
+- Gu L
+- Cao B
+- et al.
+- Boyd DF
+- Allen EK
+- Randolph AG
+- et al.
+- Horby P
+- Lim WS
+- Emberson JR
+- et al.
+- Sterne JAC
+- Murthy S
+- Diaz JV
+- et al.
+- Wajnberg A
+- Amanat F
+- Firpo A
+- et al.
+- Long QX
+- Tang XJ
+- Shi QL
+- et al.
+- Du M
+- Cai G
+- Chen F
+- Christiani DC
+- Zhang Z
+- Wang M
+- Vabret N
+- Britton GJ
+- Gruber C
+- et al.
+- Forni LG
+- Darmon M
+- Ostermann M
+- et al.
+- Bhatraju PK
+- Wurfel MM
+- Himmelfarb J
+- Chen S
+- Zhang Z
+- Yang J
+- et al.
+Data sharing
+Supplementary Material
+- Supplementary appendix
+References
+- 1.Pathophysiology, transmission, diagnosis, and treatment of coronavirus disease 2019 (COVID-19): a review.JAMA. 2020; 324: 782-793
+- 2.Virology, transmission, and pathogenesis of SARS-CoV-2.BMJ. 2020; 371m3862
+- 3.Long-term consequences of COVID-19: research needs.Lancet Infect Dis. 2020; 20: 1115-1117
+- 4.Persistent symptoms in patients after acute COVID-19.JAMA. 2020; 324: 603-605
+- 5.Impact of coronavirus disease 2019 on pulmonary function in early convalescence phase.Respir Res. 2020; 21: 163
+- 6.Chest CT and clinical follow-up of discharged patients with COVID-19 in Wenzhou City, Zhejiang, China.Ann Am Thorac Soc. 2020; 17: 1231-1237
+- 7.Follow-up study of the pulmonary function and related physiological characteristics of COVID-19 survivors three months after recovery.EClinicalMedicine. 2020; 25100463
+- 8.Clinical sequelae of COVID-19 survivors in Wuhan, China: a single-centre longitudinal study.Clin Microbiol Infection. 2020; (published online Sept 23.)
+- 9.Chinese clinical guidance for COVID-19 pneumonia diagnosis and treatment.
+- 10.A trial of lopinavir-ritonavir in adults hospitalized with severe Covid-19.N Engl J Med. 2020; 382: 1787-1799
+- 11.A longitudinal study of carotid plaque and risk of ischemic cardiovascular disease in the Chinese population.J Am Soc Echocardiogr. 2011; 24: 729-737
+- 12.Evaluation of clinical methods for rating dyspnea.Chest. 1988; 93: 580-586
+- 13.Development and preliminary testing of the new five-level version of EQ-5D (EQ-5D-5L).Qual Life Res. 2011; 20: 1727-1736
+- 14.EQ-5D: a measure of health status from the EuroQol Group.Ann Med. 2001; 33: 337-343
+- 15.Antibody responses and clinical outcomes in adults hospitalized with severe COVID-19: a post hoc analysis of LOTUS China trial.Clin Infect Dis. 2020; (published online Aug 25.)
+- 16.Profiling early humoral response to diagnose novel coronavirus disease (COVID-19).Clin Infect Dis. 2020; 71: 778-785
+- 17.Standardization of spirometry, 1994 update.Am J Respir Crit Care Med. 1995; 152: 1107-1136
+- 18.CT quantification of pneumonia lesions in early days predicts progression to severe illness in a cohort of COVID-19 patients.Theranostics. 2020; 10: 5613-5622
+- 19.Time course of lung changes at chest CT during recovery from coronavirus disease 2019 (COVID-19).Radiology. 2020; 295: 715-721
+- 20.Chest CT score in COVID-19 patients: correlation with disease severity and short-term prognosis.Eur Radiol. 2020; (published online July 4.)
+- 21.A new equation to estimate glomerular filtration rate.Ann Intern Med. 2009; 150: 604-612
+- 22.Reference equations for the six-minute walk in healthy adults.Am J Respir Crit Care Med. 1998; 158: 1384-1387
+- 23.One-year outcomes and health care utilization in survivors of severe acute respiratory syndrome.Arch Intern Med. 2007; 167: 1312-1320
+- 24.Mental morbidities and chronic fatigue in severe acute respiratory syndrome survivors: long-term follow-up.Arch Intern Med. 2009; 169: 2142-2147
+- 25.Stress and psychological distress among SARS survivors 1 year after the outbreak.Can J Psychiatry. 2007; 52: 233-240
+- 26.Psychiatric and neuropsychiatric presentations associated with severe coronavirus infections: a systematic review and meta-analysis with comparison to the COVID-19 pandemic.Lancet Psychiatry. 2020; 7: 611-627
+- 27.Follow-up study on pulmonary function and lung radiographic changes in rehabilitating severe acute respiratory syndrome patients after discharge.Chest. 2005; 127: 2119-2124
+- 28.Clinical features of pneumonia caused by 2009 influenza A(H1N1) virus in Beijing, China.Chest. 2011; 139: 1156-1164
+- 29.Exuberant fibroblast activity compromises lung function via ADAMTS4.Nature. 2020; 587: 466-471
+- 30.Dexamethasone in hospitalized patients with Covid-19 - preliminary report.N Engl J Med. 2020; (published online Jul 17.)
+- 31.Association between administration of systemic corticosteroids and mortality among critically ill patients with COVID-19: a meta-analysis.JAMA. 2020; 324: 1330-1341
+- 32.Robust neutralizing antibodies to SARS-CoV-2 infection persist for months.Science. 2020; 370: 1227-1230
+- 33.Clinical and immunological assessment of asymptomatic SARS-CoV-2 infections.Nat Med. 2020; 26: 1200-1204
+- 34.Multiomics evaluation of gastrointestinal and other clinical characteristics of COVID-19.Gastroenterology. 2020; 158 (301.e7): 2298
+- 35.Immunology of COVID-19: current state of the science.Immunity. 2020; 52: 910-941
+- 36.Renal recovery after acute kidney injury.Intensive Care Med. 2017; 43: 855-866
+- 37.Trajectory of kidney function: the canary in sepsis.Am J Respir Crit Care Med. 2020; 202: 1211-1212
+- 38.Fangcang shelter hospitals: a novel concept for responding to public health emergencies.Lancet. 2020; 395: 1305-1314
+Article Info
+Publication History
+Identification
+DOI: https://doi.org/10.1016/S0140-6736(20)32656-8
+Copyright
+ScienceDirectAccess this article on ScienceDirect
+Linked Articles
+- Long-term follow-up of recovered patients with COVID-19By early January, 2021, COVID-19, caused by the severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2), had resulted in more than 83 million confirmed cases and more than 1·8 million deaths . The clinical spectrum of SARS-CoV-2 infection is wide, encompassing asymptomatic infection, fever, fatigue, myalgias, mild upper respiratory tract illness, severe life-threatening viral pneumonia requiring admission to hospital, and death.1 Physicians are observing persisting symptoms and unexpected, substantial organ dysfunction after SARS-CoV-2 infection in an increasing number of patients who have recovered, as previously observed in the SARS outbreak.Full-Text
+- Long-term effects of COVID-19 on kidney functionWe read with interest the long-term follow-up data from hospitalised patients with COVID-19 study by Chaolin Huang and colleagues.1 The investigators report that 107 (13%) of 822 study participants with an estimated glomerular filtration rate (eGFR; calculated with the Chronic Kidney Disease Epidemiology Collaboration equation2) of 90 mL/min per 1·73 m2 or more and no acute kidney injury during the acute phase had an eGFR of less than 90 mL/min per 1·73 m2 at follow-up. Huang and colleagues interpret this observation as persistent renal dysfunction.Full-Text
+- Long-term effects of COVID-19 on kidney functionChaolin Huang and colleagues1 have highlighted the putative renal consequences of COVID-19 at 6 months from discharge. A decreased estimated glomerular filtration rate (eGFR) was defined as less than 90 mL/min per 1·73 m2 and was observed in 35% of participants during follow-up. The term decreased eGFR is ambiguous. According to the mean age of the cohort, chronic kidney disease should be defined as an eGFR of less than 60 mL/min per 1·73 m2.2 The usual prevalence of eGFR less than 90 mL/min per 1·73 m2 in the Chinese general population of similar ages to those in Huang and colleagues' cohort ranges between 35% and 50%.Full-Text
+- Long-term effects of COVID-19 on kidney function – Authors' replyIn our study,1 we observed a considerable number of patients presenting with low estimated glomerular filtration rate (eGFR) over time without acute kidney injury and an eGFR of 90 mL/min per 1·73 m2 or more during hospitalisation. Another study has shown that the use of creatinine to diagnose acute kidney injury might underestimate the patients with acute kidney injury at acute phase.2 We found that reduced eGFR at follow-up is possibly associated with kidney injury at acute phase, which was not recognised on the basis of serum creatinine values.Full-Text
+- Long-haul COVID: heed the lessons from other infection-triggered illnessesAccording to the Johns Hopkins Coronavirus Resource Center , more than 115 million people worldwide have been infected with SARS-CoV-2 during the COVID-19 pandemic, with extensive implications for morbidity and mortality. Description of long-term effects of COVID-19 are apparing in the medical literature; the first large cohort study1 with 6-months' follow-up has been published, and more data are sure to follow. A small number of studies point not only to persistent imaging and testing abnormalities across several organ systems in the postacute period, but to a high frequency of patient-reported symptoms such as fatigue, insomnia, anxiety and depression, autonomic disturbances, cognitive difficulties, pain, and others.Full-Text
