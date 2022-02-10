@@ -5,13 +5,16 @@ from boilerpy3 import extractors
 from bs4 import BeautifulSoup
 import trafilatura
 import nltk
+import pandas as pd
 from nltk.tokenize import word_tokenize
 from nltk.corpus import stopwords
+from nltk.stem import WordNetLemmatizer
 
 nltk.download('stopwords')
+nltk.download('omw-1.4')
 
 # https://hal.archives-ouvertes.fr/hal-02768510v3/document 
-# Pour choisir l'outil d'extraction de texte trafilatura
+# Pour choisir l'outil d'extraction de texte trafilatura selon les performances
 
 headers = {
     'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_5) AppleWebKit/537.36 (KHTML, like Gecko) '
@@ -70,14 +73,38 @@ def parse_html3(url,name):
     else:
         raise Exception(f'Failed to get URL: {resp.status_code}')
 
+
+def lemmatization(tokens):
+    lemmatizer = WordNetLemmatizer()
+    for word in tokens:
+        word = lemmatizer.lemmatize(word)
+    return tokens
+
 def tokenizeAndFilter(filename):
     stop_words = set(stopwords.words('english'))
     filex = open("%s.txt"%filename, 'r',encoding="utf8")
     text = filex.read()
     tokens = nltk.word_tokenize(text)
     tokens = [item for item in tokens if (item.isalpha() or item.isdigit()) and not item in stop_words]
-    return tokens
+    tokens = [token.lower() for token in tokens]
+    return lemmatization(tokens)
 
+def document_term_matrix(doc):
+    dtm = []
+    for i in range(0,len(doc)):
+        dt = pd.DataFrame(doc[i])
+        dt.columns=['terms']
+        dt = dict(dt['terms'].value_counts())
+        dtm.append(dt)
+    from collections import defaultdict
+    dd = defaultdict(list)
+
+    for d in dtm:
+        for key, value in d.items():
+            dd[key].append(value)
+    print(dd)
+
+    
 
 def main():
 
@@ -88,7 +115,13 @@ def main():
     #    parse_html3(URL[i],i)
 
     # Pré-traitement des données et construction de la matrice d’incidence
-    print(tokenizeAndFilter(8))
+    corpus = []
+    for i in range(0,len(URL)):
+        doc = tokenizeAndFilter(i)
+        corpus.append(doc)
+    
+    dtm = document_term_matrix(corpus)
+
 
 if __name__ == "__main__":
     main()
